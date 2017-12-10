@@ -1,0 +1,16 @@
+clone
+ddbus-examples
+.dub
+docs.json
+__dummy.html
+docs/
+clone.so
+clone.dylib
+clone.dll
+clone.a
+clone.lib
+clone-test-*
+*.exe
+*.o
+*.obj
+*.lst
