@@ -1,0 +1,15 @@
+branch
+.dub
+docs.json
+__dummy.html
+docs/
+branch.so
+branch.dylib
+branch.dll
+branch.a
+branch.lib
+branch-test-*
+*.exe
+*.o
+*.obj
+*.lst

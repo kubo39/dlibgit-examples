@@ -1,0 +1,8 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"colorize": "1.0.5",
+		"dlibgit": "0.50.6",
+		"libgit2": "0.20.1"
+	}
+}
