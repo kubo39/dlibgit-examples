@@ -1,6 +1,10 @@
 # dlibgit examples
 
+Some sample applications for using dlibgit.
+
 ## prerequirements
+
+### libgit2
 
 ```console
 $ wget https://github.com/libgit2/libgit2/archive/v0.20.0.tar.gz
