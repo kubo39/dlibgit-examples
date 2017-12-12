@@ -1,0 +1,15 @@
+ispathignored
+.dub
+docs.json
+__dummy.html
+docs/
+ispathignored.so
+ispathignored.dylib
+ispathignored.dll
+ispathignored.a
+ispathignored.lib
+ispathignored-test-*
+*.exe
+*.o
+*.obj
+*.lst
