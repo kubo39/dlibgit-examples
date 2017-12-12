@@ -1,0 +1,15 @@
+revparse
+.dub
+docs.json
+__dummy.html
+docs/
+revparse.so
+revparse.dylib
+revparse.dll
+revparse.a
+revparse.lib
+revparse-test-*
+*.exe
+*.o
+*.obj
+*.lst
